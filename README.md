@@ -41,3 +41,5 @@
 1. [页面](book/page.md)
 2. [底部导航栏](book/tabbar.md)
 3. [vue](book/vue.md)
+4. [部署](book/deploy.md)
+5. [授权登录todo](book/login.md)
