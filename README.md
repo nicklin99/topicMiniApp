@@ -43,3 +43,4 @@
 3. [vue](book/vue.md)
 4. [部署](book/deploy.md)
 5. [授权登录todo](book/login.md)
+6. [体验版](book/tiyan.md)
